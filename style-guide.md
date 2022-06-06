@@ -7,6 +7,29 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
 
+/\*
+--- 01 TYPOGRAPHY SYSTEM
+
+- FONT SIZE SYSTEM (px)
+  10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- Font weights:
+  Default: 400
+  Medium: 500
+  Semi-bold: 600
+  Bold: 700
+
+- Line heights:
+  Default: 1
+  Small: 1.05
+  Medium: 1.2
+  Paragraph Default: 1.6
+  Large: 1.8
+
+-- Letter Spacing
+-0.5px
+0.75px
+
 ## Colors
 
 ### Primary
